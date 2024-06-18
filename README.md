@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarsTheAnalyst
+- 👀 I’m interested in data analysis and data science
+- 🌱 I’m currently learning data analysis on Phython
+- 📫 You can reach me through email at marvellousdamilare@gmail.com
+- 😄 Pronouns: he/him, her/she
